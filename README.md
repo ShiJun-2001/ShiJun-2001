@@ -37,7 +37,7 @@
 
 📫 **How to Reach Me**  
 - ✉️ sj_park@kaist.ac.kr  
-- 🔗 [LinkedIn](#) • [ResearchGate](#) • [Personal Website](#)  
+- 🔗 [Personal Website]([#](https://rslab.kaist.ac.kr/about/read02.php?no=113))  
 
 <!---
 ShiJun-2001/ShiJun-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
