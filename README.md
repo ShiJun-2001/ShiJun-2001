@@ -1,3 +1,10 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ShiJun-2001&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ShiJun-2001"
+  width="600"
+  height="300"
+/>
+</a>
 - 👋 Hi, I’m @ShiJun
 - 👀 I’m interested in C++, Python
 - 🌱 I’m currently learning RL
