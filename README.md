@@ -19,16 +19,15 @@
 
 💻 **Technical Skills**  
 - **Programming Languages:** C++, Python  
-- **Frameworks & Libraries:** ROS, Eigen, URDF, PyTorch, TensorFlow  
+- **Frameworks & Libraries:** ROS, PyTorch
 - **Algorithms & Methods:**  
-  - Haptic rendering and force-control  
-  - Quaternion and rotation-matrix computations for accurate kinematics and dynamics  
-  - Reinforcement learning (DQN, PPO) applied to adaptive haptic control and teleoperation  
-- **Tools:** MATLAB, Origin, Git/GitHub  
+  - Haptic rendering and force-control   
+  - Reinforcement learning applied to adaptive haptic control and teleoperation  
+- **Tools:** MATLAB
 
 🚀 **Interests & Goals**  
 - Exploring **AI+Medical Robotics** applications, especially in surgical training and rehabilitation  
-- Collaborating on open-source projects that bridge robotics, haptics, and machine learning  
+- Collaborating on open-source projects that bridge robotics, haptics, and reinforcement learning  
 - Transitioning research prototypes into industrial products to improve patient care  
 
 🤝 **Let’s Collaborate**  
